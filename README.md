@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ibrahim Ramadan Ibrahim
-- 🌱 I’m currently learning Embedded System.
 - Electronics and Electrical Communication Engineering student at Cairo University
